@@ -16,6 +16,6 @@ ratings:
   - "**.js"
 exclude_paths:
 - lib/*
-- *.scss
-- *.css
-- *.html
+- "*.scss"
+- "*.css"
+- "*.html"
